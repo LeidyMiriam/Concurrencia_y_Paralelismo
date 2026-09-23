@@ -1,4 +1,4 @@
-//Practica de semaforos - Autor: Leidy M Morayta Pérez - 08/09/2026
+//Practica de semaforos - Autor: Leidy M Morayta Pérez - 08/09/2026.
 
 //Importacion de librerias para utilizar los hilos, los semaforos , impresion en consola y los tiempo de esepra de los hilos.
 #include <pthread.h>
